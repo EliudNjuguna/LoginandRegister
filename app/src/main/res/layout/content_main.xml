@@ -64,7 +64,8 @@
             android:layout_marginTop="58dp"
             android:id="@+id/btnLogout"
             android:layout_alignParentRight="true"
-            android:layout_alignParentEnd="true" />
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/button_press"/>
 
 
 </RelativeLayout>

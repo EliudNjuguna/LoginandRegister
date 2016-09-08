@@ -44,7 +44,8 @@
         android:id="@+id/btnLogin"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:fontFamily="serif" />
+        android:fontFamily="serif"
+        android:background="@color/colorAccent"/>
 
     <TextView
         android:text="@string/register"
